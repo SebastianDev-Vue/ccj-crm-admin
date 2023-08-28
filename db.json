@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "name": "Sebastian",
+      "lastName": "Fuentes",
+      "email": "sebastian.fuentes@alegra.com",
+      "phone": "323-476-2583",
+      "company": "Alegra",
+      "position": "Vue JS Frontend Developer",
+      "status": true,
+      "id": 1
+    }
+  ]
+}
